@@ -1,0 +1,12 @@
+﻿  glad.c
+  Assignment3.cpp
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(110,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(281,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(282,11): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(286,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(287,18): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(289,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(290,10): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment3\Assignment3.cpp(297,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Assignment3.vcxproj -> C:\Users\Top\source\repos\Graphic_Assignment\x64\Debug\Assignment3.exe

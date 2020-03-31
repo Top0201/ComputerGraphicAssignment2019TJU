@@ -1,0 +1,27 @@
+﻿  glad.c
+  Assignment1.cpp
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(152,24): warning C4244:  'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(246,11): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(247,11): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(251,18): warning C4244:  'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(252,18): warning C4244:  'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(253,10): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(254,10): warning C4244:  '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Top\source\repos\Graphic_Assignment\Assignment1\Assignment1.cpp(261,28): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl key_callback(struct GLFWwindow *,int,int,int,int)" (?key_callback@@YAXPAUGLFWwindow@@HHHH@Z)
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwSetKeyCallback referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+Assignment1.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+C:\Users\Top\source\repos\resources\glfw-3.3.bin.WIN64\lib-vc2019\glfw3.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Top\source\repos\Graphic_Assignment\Debug\Assignment1.exe : fatal error LNK1120: 15 unresolved externals
