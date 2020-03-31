@@ -1,3 +1,4 @@
 Assignment1 filter=lfs diff=lfs merge=lfs -text
 Assignment2 filter=lfs diff=lfs merge=lfs -text
 Assignment3 filter=lfs diff=lfs merge=lfs -text
+Graphic_Assignment.sln filter=lfs diff=lfs merge=lfs -text
